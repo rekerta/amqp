@@ -1,6 +1,6 @@
 Forked anik/amqp
 ---
-This was forked in order to use newer version of the `php-amqplib/php-amqplib` package. Older version of this package does not support PHP 8.0 because in some cases required parameters follows optional parameters. PHP 8.0: deprecated required parameters after optional parameters in function/method signatures https://php.watch/versions/8.0/deprecate-required-param-after-optional 
+This was forked in order to use newer version of the `php-amqplib/php-amqplib` package. Older version of this package does not support PHP 8.0 because in some cases required parameters follows optional parameters. PHP 8.0 deprecated required parameters after optional parameters in function/method signatures https://php.watch/versions/8.0/deprecate-required-param-after-optional 
 
 anik/amqp
 ---
